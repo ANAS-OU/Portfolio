@@ -1,3 +1,2 @@
-#Hey 👋, This is Anass Outiskte
-#A web developer
-#Thank you for visiting my Portfolio
+### Hey 👋,
+This is Anass Outiskte, a web developer
