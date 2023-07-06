@@ -1,5 +1,3 @@
-***Hey 👋,***
+***Hey 👋, This is Anass Outiskte, 💻 a web developer**
 
-**This is Anass Outiskte, a web developer**
-
-👉 http://outiskteanas.tech'
+👉 http://outiskteanas.tech
