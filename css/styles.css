@@ -26,16 +26,9 @@ span {
 	font-size: 1.25rem;
 }
 
-.old {
-	color: darkblue;
-}
-
-.new {
-	color: purple;
-}
-
 .social-media {
 	margin: 1rem auto;
+	padding-bottom: 4rem;
 }
 
 .media-icon {
