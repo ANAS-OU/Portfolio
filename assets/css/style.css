@@ -434,8 +434,8 @@ section .container {
   margin-bottom: 0;
 }
 
-.img-fluid {
-  border-radius: 15px;
+#myPic {
+  border-radius: 10px;
 }
 
 /*--------------------------------------------------------------
